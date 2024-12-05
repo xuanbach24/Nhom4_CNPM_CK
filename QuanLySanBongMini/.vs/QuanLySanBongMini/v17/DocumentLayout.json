@@ -1,0 +1,295 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\xuanb\\TL Nam2\\QuanLySanBongMini (1) (1)\\QuanLySanBongMini (1) (1)\\QuanLySanBongMini (1)\\QuanLySanBongMini\\QuanLySanBongMini\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B7D4EA70-804F-4295-A143-297FB38F9A4B}|QuanLySanBongMini\\QuanLySanBongMini.csproj|c:\\users\\xuanb\\tl nam2\\quanlysanbongmini (1) (1)\\quanlysanbongmini (1) (1)\\quanlysanbongmini (1)\\quanlysanbongmini\\quanlysanbongmini\\quanlysanbongmini\\fofrm_report.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B7D4EA70-804F-4295-A143-297FB38F9A4B}|QuanLySanBongMini\\QuanLySanBongMini.csproj|solutionrelative:quanlysanbongmini\\fofrm_report.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7D4EA70-804F-4295-A143-297FB38F9A4B}|QuanLySanBongMini\\QuanLySanBongMini.csproj|C:\\Users\\xuanb\\TL Nam2\\QuanLySanBongMini (1) (1)\\QuanLySanBongMini (1) (1)\\QuanLySanBongMini (1)\\QuanLySanBongMini\\QuanLySanBongMini\\quanlysanbongmini\\frm_datsan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B7D4EA70-804F-4295-A143-297FB38F9A4B}|QuanLySanBongMini\\QuanLySanBongMini.csproj|solutionrelative:quanlysanbongmini\\frm_datsan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7D4EA70-804F-4295-A143-297FB38F9A4B}|QuanLySanBongMini\\QuanLySanBongMini.csproj|c:\\users\\xuanb\\tl nam2\\quanlysanbongmini (1) (1)\\quanlysanbongmini (1) (1)\\quanlysanbongmini (1)\\quanlysanbongmini\\quanlysanbongmini\\quanlysanbongmini\\frm_datsan.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7D4EA70-804F-4295-A143-297FB38F9A4B}|QuanLySanBongMini\\QuanLySanBongMini.csproj|solutionrelative:quanlysanbongmini\\frm_datsan.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7D4EA70-804F-4295-A143-297FB38F9A4B}|QuanLySanBongMini\\QuanLySanBongMini.csproj|c:\\users\\xuanb\\tl nam2\\quanlysanbongmini (1) (1)\\quanlysanbongmini (1) (1)\\quanlysanbongmini (1)\\quanlysanbongmini\\quanlysanbongmini\\quanlysanbongmini\\frm_dangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B7D4EA70-804F-4295-A143-297FB38F9A4B}|QuanLySanBongMini\\QuanLySanBongMini.csproj|solutionrelative:quanlysanbongmini\\frm_dangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7D4EA70-804F-4295-A143-297FB38F9A4B}|QuanLySanBongMini\\QuanLySanBongMini.csproj|C:\\Users\\xuanb\\TL Nam2\\QuanLySanBongMini (1) (1)\\QuanLySanBongMini (1) (1)\\QuanLySanBongMini (1)\\QuanLySanBongMini\\QuanLySanBongMini\\quanlysanbongmini\\frm_datsan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7D4EA70-804F-4295-A143-297FB38F9A4B}|QuanLySanBongMini\\QuanLySanBongMini.csproj|solutionrelative:quanlysanbongmini\\frm_datsan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7D4EA70-804F-4295-A143-297FB38F9A4B}|QuanLySanBongMini\\QuanLySanBongMini.csproj|C:\\Users\\xuanb\\TL Nam2\\QuanLySanBongMini (1) (1)\\QuanLySanBongMini (1) (1)\\QuanLySanBongMini (1)\\QuanLySanBongMini\\QuanLySanBongMini\\quanlysanbongmini\\dataconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7D4EA70-804F-4295-A143-297FB38F9A4B}|QuanLySanBongMini\\QuanLySanBongMini.csproj|solutionrelative:quanlysanbongmini\\dataconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7D4EA70-804F-4295-A143-297FB38F9A4B}|QuanLySanBongMini\\QuanLySanBongMini.csproj|C:\\Users\\xuanb\\TL Nam2\\QuanLySanBongMini (1) (1)\\QuanLySanBongMini (1) (1)\\QuanLySanBongMini (1)\\QuanLySanBongMini\\QuanLySanBongMini\\quanlysanbongmini\\frm_qlsan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B7D4EA70-804F-4295-A143-297FB38F9A4B}|QuanLySanBongMini\\QuanLySanBongMini.csproj|solutionrelative:quanlysanbongmini\\frm_qlsan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7D4EA70-804F-4295-A143-297FB38F9A4B}|QuanLySanBongMini\\QuanLySanBongMini.csproj|C:\\Users\\xuanb\\TL Nam2\\QuanLySanBongMini (1) (1)\\QuanLySanBongMini (1) (1)\\QuanLySanBongMini (1)\\QuanLySanBongMini\\QuanLySanBongMini\\quanlysanbongmini\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7D4EA70-804F-4295-A143-297FB38F9A4B}|QuanLySanBongMini\\QuanLySanBongMini.csproj|solutionrelative:quanlysanbongmini\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7D4EA70-804F-4295-A143-297FB38F9A4B}|QuanLySanBongMini\\QuanLySanBongMini.csproj|C:\\Users\\xuanb\\TL Nam2\\QuanLySanBongMini (1) (1)\\QuanLySanBongMini (1) (1)\\QuanLySanBongMini (1)\\QuanLySanBongMini\\QuanLySanBongMini\\quanlysanbongmini\\frm_hoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B7D4EA70-804F-4295-A143-297FB38F9A4B}|QuanLySanBongMini\\QuanLySanBongMini.csproj|solutionrelative:quanlysanbongmini\\frm_hoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7D4EA70-804F-4295-A143-297FB38F9A4B}|QuanLySanBongMini\\QuanLySanBongMini.csproj|C:\\Users\\xuanb\\TL Nam2\\QuanLySanBongMini (1) (1)\\QuanLySanBongMini (1) (1)\\QuanLySanBongMini (1)\\QuanLySanBongMini\\QuanLySanBongMini\\quanlysanbongmini\\qltaikhoancanhan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B7D4EA70-804F-4295-A143-297FB38F9A4B}|QuanLySanBongMini\\QuanLySanBongMini.csproj|solutionrelative:quanlysanbongmini\\qltaikhoancanhan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7D4EA70-804F-4295-A143-297FB38F9A4B}|QuanLySanBongMini\\QuanLySanBongMini.csproj|C:\\Users\\xuanb\\TL Nam2\\QuanLySanBongMini (1) (1)\\QuanLySanBongMini (1) (1)\\QuanLySanBongMini (1)\\QuanLySanBongMini\\QuanLySanBongMini\\quanlysanbongmini\\qltaikhoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B7D4EA70-804F-4295-A143-297FB38F9A4B}|QuanLySanBongMini\\QuanLySanBongMini.csproj|solutionrelative:quanlysanbongmini\\qltaikhoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7D4EA70-804F-4295-A143-297FB38F9A4B}|QuanLySanBongMini\\QuanLySanBongMini.csproj|C:\\Users\\xuanb\\TL Nam2\\QuanLySanBongMini (1) (1)\\QuanLySanBongMini (1) (1)\\QuanLySanBongMini (1)\\QuanLySanBongMini\\QuanLySanBongMini\\quanlysanbongmini\\frm_thongke.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B7D4EA70-804F-4295-A143-297FB38F9A4B}|QuanLySanBongMini\\QuanLySanBongMini.csproj|solutionrelative:quanlysanbongmini\\frm_thongke.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7D4EA70-804F-4295-A143-297FB38F9A4B}|QuanLySanBongMini\\QuanLySanBongMini.csproj|C:\\Users\\xuanb\\TL Nam2\\QuanLySanBongMini (1) (1)\\QuanLySanBongMini (1) (1)\\QuanLySanBongMini (1)\\QuanLySanBongMini\\QuanLySanBongMini\\quanlysanbongmini\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B7D4EA70-804F-4295-A143-297FB38F9A4B}|QuanLySanBongMini\\QuanLySanBongMini.csproj|solutionrelative:quanlysanbongmini\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7D4EA70-804F-4295-A143-297FB38F9A4B}|QuanLySanBongMini\\QuanLySanBongMini.csproj|C:\\Users\\xuanb\\TL Nam2\\QuanLySanBongMini (1) (1)\\QuanLySanBongMini (1) (1)\\QuanLySanBongMini (1)\\QuanLySanBongMini\\QuanLySanBongMini\\quanlysanbongmini\\frm_qlsan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7D4EA70-804F-4295-A143-297FB38F9A4B}|QuanLySanBongMini\\QuanLySanBongMini.csproj|solutionrelative:quanlysanbongmini\\frm_qlsan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7D4EA70-804F-4295-A143-297FB38F9A4B}|QuanLySanBongMini\\QuanLySanBongMini.csproj|C:\\Users\\xuanb\\TL Nam2\\QuanLySanBongMini (1) (1)\\QuanLySanBongMini (1) (1)\\QuanLySanBongMini (1)\\QuanLySanBongMini\\QuanLySanBongMini\\quanlysanbongmini\\frm_thongke.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7D4EA70-804F-4295-A143-297FB38F9A4B}|QuanLySanBongMini\\QuanLySanBongMini.csproj|solutionrelative:quanlysanbongmini\\frm_thongke.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7D4EA70-804F-4295-A143-297FB38F9A4B}|QuanLySanBongMini\\QuanLySanBongMini.csproj|C:\\Users\\xuanb\\TL Nam2\\QuanLySanBongMini (1) (1)\\QuanLySanBongMini (1) (1)\\QuanLySanBongMini (1)\\QuanLySanBongMini\\QuanLySanBongMini\\quanlysanbongmini\\qltaikhoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7D4EA70-804F-4295-A143-297FB38F9A4B}|QuanLySanBongMini\\QuanLySanBongMini.csproj|solutionrelative:quanlysanbongmini\\qltaikhoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7D4EA70-804F-4295-A143-297FB38F9A4B}|QuanLySanBongMini\\QuanLySanBongMini.csproj|C:\\Users\\xuanb\\TL Nam2\\QuanLySanBongMini (1) (1)\\QuanLySanBongMini (1) (1)\\QuanLySanBongMini (1)\\QuanLySanBongMini\\QuanLySanBongMini\\quanlysanbongmini\\qltaikhoancanhan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7D4EA70-804F-4295-A143-297FB38F9A4B}|QuanLySanBongMini\\QuanLySanBongMini.csproj|solutionrelative:quanlysanbongmini\\qltaikhoancanhan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Fofrm_report.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\xuanb\\TL Nam2\\QuanLySanBongMini (1) (1)\\QuanLySanBongMini (1) (1)\\QuanLySanBongMini (1)\\QuanLySanBongMini\\QuanLySanBongMini\\QuanLySanBongMini\\Fofrm_report.cs",
+              "RelativeDocumentMoniker": "QuanLySanBongMini\\Fofrm_report.cs",
+              "ToolTip": "C:\\Users\\xuanb\\TL Nam2\\QuanLySanBongMini (1) (1)\\QuanLySanBongMini (1) (1)\\QuanLySanBongMini (1)\\QuanLySanBongMini\\QuanLySanBongMini\\QuanLySanBongMini\\Fofrm_report.cs [Design]",
+              "RelativeToolTip": "QuanLySanBongMini\\Fofrm_report.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T12:55:04.24Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frm_DatSan.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\xuanb\\TL Nam2\\QuanLySanBongMini (1) (1)\\QuanLySanBongMini (1) (1)\\QuanLySanBongMini (1)\\QuanLySanBongMini\\QuanLySanBongMini\\QuanLySanBongMini\\frm_DatSan.Designer.cs",
+              "RelativeDocumentMoniker": "QuanLySanBongMini\\frm_DatSan.Designer.cs",
+              "ToolTip": "C:\\Users\\xuanb\\TL Nam2\\QuanLySanBongMini (1) (1)\\QuanLySanBongMini (1) (1)\\QuanLySanBongMini (1)\\QuanLySanBongMini\\QuanLySanBongMini\\QuanLySanBongMini\\frm_DatSan.Designer.cs",
+              "RelativeToolTip": "QuanLySanBongMini\\frm_DatSan.Designer.cs",
+              "ViewState": "AgIAAFkBAAAAAAAAAAAMwGgBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T12:54:12.92Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frm_DangNhap.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\xuanb\\TL Nam2\\QuanLySanBongMini (1) (1)\\QuanLySanBongMini (1) (1)\\QuanLySanBongMini (1)\\QuanLySanBongMini\\QuanLySanBongMini\\QuanLySanBongMini\\frm_DangNhap.cs",
+              "RelativeDocumentMoniker": "QuanLySanBongMini\\frm_DangNhap.cs",
+              "ToolTip": "C:\\Users\\xuanb\\TL Nam2\\QuanLySanBongMini (1) (1)\\QuanLySanBongMini (1) (1)\\QuanLySanBongMini (1)\\QuanLySanBongMini\\QuanLySanBongMini\\QuanLySanBongMini\\frm_DangNhap.cs [Design]",
+              "RelativeToolTip": "QuanLySanBongMini\\frm_DangNhap.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T18:13:49.688Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "frm_HoaDon.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\xuanb\\TL Nam2\\QuanLySanBongMini (1) (1)\\QuanLySanBongMini (1) (1)\\QuanLySanBongMini (1)\\QuanLySanBongMini\\QuanLySanBongMini\\QuanLySanBongMini\\frm_HoaDon.cs",
+              "RelativeDocumentMoniker": "QuanLySanBongMini\\frm_HoaDon.cs",
+              "ToolTip": "D:\\Zalo recieved files\\QuanLySanBongMini (1) (1)\\QuanLySanBongMini (1)\\QuanLySanBongMini\\QuanLySanBongMini\\QuanLySanBongMini\\frm_HoaDon.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T00:49:11.714Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frm_DatSan.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\xuanb\\TL Nam2\\QuanLySanBongMini (1) (1)\\QuanLySanBongMini (1) (1)\\QuanLySanBongMini (1)\\QuanLySanBongMini\\QuanLySanBongMini\\QuanLySanBongMini\\frm_DatSan.cs",
+              "RelativeDocumentMoniker": "QuanLySanBongMini\\frm_DatSan.cs",
+              "ToolTip": "C:\\Users\\xuanb\\TL Nam2\\QuanLySanBongMini (1) (1)\\QuanLySanBongMini (1) (1)\\QuanLySanBongMini (1)\\QuanLySanBongMini\\QuanLySanBongMini\\QuanLySanBongMini\\frm_DatSan.cs [Design]",
+              "RelativeToolTip": "QuanLySanBongMini\\frm_DatSan.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T18:03:40.93Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "dataConnection.cs",
+              "DocumentMoniker": "C:\\Users\\xuanb\\TL Nam2\\QuanLySanBongMini (1) (1)\\QuanLySanBongMini (1) (1)\\QuanLySanBongMini (1)\\QuanLySanBongMini\\QuanLySanBongMini\\QuanLySanBongMini\\dataConnection.cs",
+              "RelativeDocumentMoniker": "QuanLySanBongMini\\dataConnection.cs",
+              "ToolTip": "C:\\Users\\xuanb\\TL Nam2\\QuanLySanBongMini (1) (1)\\QuanLySanBongMini (1) (1)\\QuanLySanBongMini (1)\\QuanLySanBongMini\\QuanLySanBongMini\\QuanLySanBongMini\\dataConnection.cs",
+              "RelativeToolTip": "QuanLySanBongMini\\dataConnection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T16:34:27.064Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frm_DatSan.cs",
+              "DocumentMoniker": "C:\\Users\\xuanb\\TL Nam2\\QuanLySanBongMini (1) (1)\\QuanLySanBongMini (1) (1)\\QuanLySanBongMini (1)\\QuanLySanBongMini\\QuanLySanBongMini\\QuanLySanBongMini\\frm_DatSan.cs",
+              "RelativeDocumentMoniker": "QuanLySanBongMini\\frm_DatSan.cs",
+              "ToolTip": "C:\\Users\\xuanb\\TL Nam2\\QuanLySanBongMini (1) (1)\\QuanLySanBongMini (1) (1)\\QuanLySanBongMini (1)\\QuanLySanBongMini\\QuanLySanBongMini\\QuanLySanBongMini\\frm_DatSan.cs",
+              "RelativeToolTip": "QuanLySanBongMini\\frm_DatSan.cs",
+              "ViewState": "AgIAACgBAAAAAAAAAAAMwDUBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T17:53:01.737Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "frm_QLSan.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\xuanb\\TL Nam2\\QuanLySanBongMini (1) (1)\\QuanLySanBongMini (1) (1)\\QuanLySanBongMini (1)\\QuanLySanBongMini\\QuanLySanBongMini\\QuanLySanBongMini\\frm_QLSan.cs",
+              "RelativeDocumentMoniker": "QuanLySanBongMini\\frm_QLSan.cs",
+              "ToolTip": "C:\\Users\\xuanb\\TL Nam2\\QuanLySanBongMini (1) (1)\\QuanLySanBongMini (1) (1)\\QuanLySanBongMini (1)\\QuanLySanBongMini\\QuanLySanBongMini\\QuanLySanBongMini\\frm_QLSan.cs [Design]",
+              "RelativeToolTip": "QuanLySanBongMini\\frm_QLSan.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T18:02:28.157Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "QLTaiKhoan.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\xuanb\\TL Nam2\\QuanLySanBongMini (1) (1)\\QuanLySanBongMini (1) (1)\\QuanLySanBongMini (1)\\QuanLySanBongMini\\QuanLySanBongMini\\QuanLySanBongMini\\QLTaiKhoan.cs",
+              "RelativeDocumentMoniker": "QuanLySanBongMini\\QLTaiKhoan.cs",
+              "ToolTip": "F:\\Files\\\u0110\u1ED3 \u00E1n .net\\QuanLySanBongMini_1\\QuanLySanBongMini\\QuanLySanBongMini\\QuanLySanBongMini\\QuanLySanBongMini\\QuanLySanBongMini\\QLTaiKhoan.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T18:10:14.24Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "frm_ThongKe.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\xuanb\\TL Nam2\\QuanLySanBongMini (1) (1)\\QuanLySanBongMini (1) (1)\\QuanLySanBongMini (1)\\QuanLySanBongMini\\QuanLySanBongMini\\QuanLySanBongMini\\frm_ThongKe.cs",
+              "RelativeDocumentMoniker": "QuanLySanBongMini\\frm_ThongKe.cs",
+              "ToolTip": "F:\\Files\\\u0110\u1ED3 \u00E1n .net\\QuanLySanBongMini_1\\QuanLySanBongMini\\QuanLySanBongMini\\QuanLySanBongMini\\QuanLySanBongMini\\QuanLySanBongMini\\frm_ThongKe.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T00:54:44.66Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\xuanb\\TL Nam2\\QuanLySanBongMini (1) (1)\\QuanLySanBongMini (1) (1)\\QuanLySanBongMini (1)\\QuanLySanBongMini\\QuanLySanBongMini\\QuanLySanBongMini\\Program.cs",
+              "RelativeDocumentMoniker": "QuanLySanBongMini\\Program.cs",
+              "ToolTip": "C:\\Users\\xuanb\\TL Nam2\\QuanLySanBongMini (1) (1)\\QuanLySanBongMini (1) (1)\\QuanLySanBongMini (1)\\QuanLySanBongMini\\QuanLySanBongMini\\QuanLySanBongMini\\Program.cs",
+              "RelativeToolTip": "QuanLySanBongMini\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T16:36:30.854Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "QLTaiKhoanCaNhan.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\xuanb\\TL Nam2\\QuanLySanBongMini (1) (1)\\QuanLySanBongMini (1) (1)\\QuanLySanBongMini (1)\\QuanLySanBongMini\\QuanLySanBongMini\\QuanLySanBongMini\\QLTaiKhoanCaNhan.cs",
+              "RelativeDocumentMoniker": "QuanLySanBongMini\\QLTaiKhoanCaNhan.cs",
+              "ToolTip": "F:\\Files\\\u0110\u1ED3 \u00E1n .net\\QuanLySanBongMini_1\\QuanLySanBongMini\\QuanLySanBongMini\\QuanLySanBongMini\\QuanLySanBongMini\\QuanLySanBongMini\\QLTaiKhoanCaNhan.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T18:11:56.741Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FrmMain.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\xuanb\\TL Nam2\\QuanLySanBongMini (1) (1)\\QuanLySanBongMini (1) (1)\\QuanLySanBongMini (1)\\QuanLySanBongMini\\QuanLySanBongMini\\QuanLySanBongMini\\FrmMain.cs",
+              "RelativeDocumentMoniker": "QuanLySanBongMini\\FrmMain.cs",
+              "ToolTip": "D:\\Zalo recieved files\\QuanLySanBongMini (1) (1)\\QuanLySanBongMini (1)\\QuanLySanBongMini\\QuanLySanBongMini\\QuanLySanBongMini\\FrmMain.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T23:52:45.765Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "frm_ThongKe.cs",
+              "DocumentMoniker": "C:\\Users\\xuanb\\TL Nam2\\QuanLySanBongMini (1) (1)\\QuanLySanBongMini (1) (1)\\QuanLySanBongMini (1)\\QuanLySanBongMini\\QuanLySanBongMini\\QuanLySanBongMini\\frm_ThongKe.cs",
+              "RelativeDocumentMoniker": "QuanLySanBongMini\\frm_ThongKe.cs",
+              "ToolTip": "C:\\Users\\xuanb\\TL Nam2\\QuanLySanBongMini (1) (1)\\QuanLySanBongMini (1) (1)\\QuanLySanBongMini (1)\\QuanLySanBongMini\\QuanLySanBongMini\\QuanLySanBongMini\\frm_ThongKe.cs",
+              "RelativeToolTip": "QuanLySanBongMini\\frm_ThongKe.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAgwBkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T12:02:20.746Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "frm_QLSan.cs",
+              "DocumentMoniker": "C:\\Users\\xuanb\\TL Nam2\\QuanLySanBongMini (1) (1)\\QuanLySanBongMini (1) (1)\\QuanLySanBongMini (1)\\QuanLySanBongMini\\QuanLySanBongMini\\QuanLySanBongMini\\frm_QLSan.cs",
+              "RelativeDocumentMoniker": "QuanLySanBongMini\\frm_QLSan.cs",
+              "ToolTip": "C:\\Users\\xuanb\\TL Nam2\\QuanLySanBongMini (1) (1)\\QuanLySanBongMini (1) (1)\\QuanLySanBongMini (1)\\QuanLySanBongMini\\QuanLySanBongMini\\QuanLySanBongMini\\frm_QLSan.cs",
+              "RelativeToolTip": "QuanLySanBongMini\\frm_QLSan.cs",
+              "ViewState": "AgIAAAwCAAAAAAAAAAAIwAUCAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T18:32:02.482Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "QLTaiKhoan.cs",
+              "DocumentMoniker": "C:\\Users\\xuanb\\TL Nam2\\QuanLySanBongMini (1) (1)\\QuanLySanBongMini (1) (1)\\QuanLySanBongMini (1)\\QuanLySanBongMini\\QuanLySanBongMini\\QuanLySanBongMini\\QLTaiKhoan.cs",
+              "RelativeDocumentMoniker": "QuanLySanBongMini\\QLTaiKhoan.cs",
+              "ToolTip": "C:\\Users\\xuanb\\TL Nam2\\QuanLySanBongMini (1) (1)\\QuanLySanBongMini (1) (1)\\QuanLySanBongMini (1)\\QuanLySanBongMini\\QuanLySanBongMini\\QuanLySanBongMini\\QLTaiKhoan.cs",
+              "RelativeToolTip": "QuanLySanBongMini\\QLTaiKhoan.cs",
+              "ViewState": "AgIAALwAAAAAAAAAAAAkwAQBAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T18:11:13.705Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "QLTaiKhoanCaNhan.cs",
+              "DocumentMoniker": "C:\\Users\\xuanb\\TL Nam2\\QuanLySanBongMini (1) (1)\\QuanLySanBongMini (1) (1)\\QuanLySanBongMini (1)\\QuanLySanBongMini\\QuanLySanBongMini\\QuanLySanBongMini\\QLTaiKhoanCaNhan.cs",
+              "RelativeDocumentMoniker": "QuanLySanBongMini\\QLTaiKhoanCaNhan.cs",
+              "ToolTip": "C:\\Users\\xuanb\\TL Nam2\\QuanLySanBongMini (1) (1)\\QuanLySanBongMini (1) (1)\\QuanLySanBongMini (1)\\QuanLySanBongMini\\QuanLySanBongMini\\QuanLySanBongMini\\QLTaiKhoanCaNhan.cs",
+              "RelativeToolTip": "QuanLySanBongMini\\QLTaiKhoanCaNhan.cs",
+              "ViewState": "AgIAALYAAAAAAAAAAAAmwI8AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T00:03:12.074Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

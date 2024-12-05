@@ -1,0 +1,451 @@
+C:\Users\xuanb\TL Nam2\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\obj\Debug\QuanLySanBongMini.csproj.AssemblyReference.cache
+C:\Users\xuanb\TL Nam2\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\obj\Debug\QuanLySanBongMini.Properties.Resources.resources
+C:\Users\xuanb\TL Nam2\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\obj\Debug\QuanLySanBongMini.csproj.GenerateResource.cache
+C:\Users\xuanb\TL Nam2\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\obj\Debug\QuanLySanBongMini.csproj.CoreCompileInputs.cache
+C:\Users\xuanb\TL Nam2\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\bin\Debug\QuanLySanBongMini.exe.config
+C:\Users\xuanb\TL Nam2\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\bin\Debug\QuanLySanBongMini.exe
+C:\Users\xuanb\TL Nam2\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\bin\Debug\QuanLySanBongMini.pdb
+C:\Users\xuanb\TL Nam2\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\obj\Debug\QuanLySanBongMini.frm_DangNhap.resources
+C:\Users\xuanb\TL Nam2\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\obj\Debug\QuanLySanBongMini.exe
+C:\Users\xuanb\TL Nam2\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\obj\Debug\QuanLySanBongMini.pdb
+C:\Users\xuanb\TL Nam2\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\obj\Debug\QuanLySanBongMini.frm_DatSan.resources
+C:\Users\xuanb\TL Nam2\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\obj\Debug\QuanLySanBongMini.FrmMain.resources
+C:\Users\xuanb\TL Nam2\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\obj\Debug\QuanLySanBongMini.frm_QLSan.resources
+C:\Users\xuanb\TL Nam2\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\obj\Debug\QuanLySanBongMini.QLTaiKhoan.resources
+C:\Users\xuanb\TL Nam2\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\obj\Debug\QuanLySanBongMini.QLTaiKhoanCaNhan.resources
+C:\Users\xuanb\TL Nam2\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\obj\Debug\QuanLySanBongMini.frm_ThongKe.resources
+C:\Users\Administrator\Downloads\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\bin\Debug\QuanLySanBongMini.exe.config
+C:\Users\Administrator\Downloads\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\bin\Debug\QuanLySanBongMini.exe
+C:\Users\Administrator\Downloads\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\bin\Debug\QuanLySanBongMini.pdb
+C:\Users\Administrator\Downloads\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Administrator\Downloads\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\obj\Debug\QuanLySanBongMini.csproj.AssemblyReference.cache
+C:\Users\Administrator\Downloads\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\obj\Debug\QuanLySanBongMini.FrmMain.resources
+C:\Users\Administrator\Downloads\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\obj\Debug\QuanLySanBongMini.frm_DangNhap.resources
+C:\Users\Administrator\Downloads\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\obj\Debug\QuanLySanBongMini.frm_DatSan.resources
+C:\Users\Administrator\Downloads\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\obj\Debug\QuanLySanBongMini.frm_QLSan.resources
+C:\Users\Administrator\Downloads\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\obj\Debug\QuanLySanBongMini.frm_ThongKe.resources
+C:\Users\Administrator\Downloads\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\obj\Debug\QuanLySanBongMini.Properties.Resources.resources
+C:\Users\Administrator\Downloads\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\obj\Debug\QuanLySanBongMini.QLTaiKhoan.resources
+C:\Users\Administrator\Downloads\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\obj\Debug\QuanLySanBongMini.QLTaiKhoanCaNhan.resources
+C:\Users\Administrator\Downloads\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\obj\Debug\QuanLySanBongMini.csproj.GenerateResource.cache
+C:\Users\Administrator\Downloads\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\obj\Debug\QuanLySanBongMini.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Downloads\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\obj\Debug\QuanLySa.EE94099F.Up2Date
+C:\Users\Administrator\Downloads\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\obj\Debug\QuanLySanBongMini.exe
+C:\Users\Administrator\Downloads\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\obj\Debug\QuanLySanBongMini.pdb
+F:\Files\Đồ án .net\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\bin\Debug\QuanLySanBongMini.exe.config
+F:\Files\Đồ án .net\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\bin\Debug\QuanLySanBongMini.exe
+F:\Files\Đồ án .net\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\bin\Debug\QuanLySanBongMini.pdb
+F:\Files\Đồ án .net\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\bin\Debug\FontAwesome.Sharp.dll
+F:\Files\Đồ án .net\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\obj\Debug\QuanLySanBongMini.csproj.AssemblyReference.cache
+F:\Files\Đồ án .net\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\obj\Debug\QuanLySanBongMini.FrmMain.resources
+F:\Files\Đồ án .net\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\obj\Debug\QuanLySanBongMini.frm_DangNhap.resources
+F:\Files\Đồ án .net\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\obj\Debug\QuanLySanBongMini.frm_DatSan.resources
+F:\Files\Đồ án .net\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\obj\Debug\QuanLySanBongMini.frm_QLSan.resources
+F:\Files\Đồ án .net\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\obj\Debug\QuanLySanBongMini.frm_ThongKe.resources
+F:\Files\Đồ án .net\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\obj\Debug\QuanLySanBongMini.Properties.Resources.resources
+F:\Files\Đồ án .net\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\obj\Debug\QuanLySanBongMini.QLTaiKhoan.resources
+F:\Files\Đồ án .net\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\obj\Debug\QuanLySanBongMini.QLTaiKhoanCaNhan.resources
+F:\Files\Đồ án .net\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\obj\Debug\QuanLySanBongMini.csproj.GenerateResource.cache
+F:\Files\Đồ án .net\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\obj\Debug\QuanLySanBongMini.csproj.CoreCompileInputs.cache
+F:\Files\Đồ án .net\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\obj\Debug\QuanLySa.EE94099F.Up2Date
+F:\Files\Đồ án .net\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\obj\Debug\QuanLySanBongMini.exe
+F:\Files\Đồ án .net\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\obj\Debug\QuanLySanBongMini.pdb
+F:\Files\Đồ án .net\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\bin\Debug\DevExpress.Data.v24.1.dll
+F:\Files\Đồ án .net\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\bin\Debug\DevExpress.Data.v24.1.xml
+F:\Files\Đồ án .net\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\bin\Debug\DevExpress.Data.Desktop.v24.1.dll
+F:\Files\Đồ án .net\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\bin\Debug\DevExpress.Drawing.v24.1.dll
+F:\Files\Đồ án .net\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\bin\Debug\DevExpress.Printing.v24.1.Core.dll
+F:\Files\Đồ án .net\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\bin\Debug\DevExpress.Sparkline.v24.1.Core.dll
+F:\Files\Đồ án .net\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\bin\Debug\DevExpress.Utils.v24.1.dll
+F:\Files\Đồ án .net\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\bin\Debug\DevExpress.XtraEditors.v24.1.dll
+F:\Files\Đồ án .net\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\bin\Debug\DevExpress.Pdf.v24.1.Core.dll
+F:\Files\Đồ án .net\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\bin\Debug\DevExpress.Pdf.v24.1.Drawing.dll
+F:\Files\Đồ án .net\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\bin\Debug\DevExpress.Data.Desktop.v24.1.xml
+F:\Files\Đồ án .net\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\bin\Debug\DevExpress.Drawing.v24.1.xml
+F:\Files\Đồ án .net\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\bin\Debug\DevExpress.Printing.v24.1.Core.xml
+F:\Files\Đồ án .net\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\bin\Debug\DevExpress.Sparkline.v24.1.Core.xml
+F:\Files\Đồ án .net\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\bin\Debug\DevExpress.Utils.v24.1.xml
+F:\Files\Đồ án .net\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\bin\Debug\DevExpress.XtraEditors.v24.1.xml
+F:\Files\Đồ án .net\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\bin\Debug\DevExpress.Pdf.v24.1.Core.xml
+F:\Files\Đồ án .net\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\bin\Debug\DevExpress.Pdf.v24.1.Drawing.xml
+F:\Files\Đồ án .net\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\bin\Debug\DevExpress.Charts.v24.1.Core.dll
+F:\Files\Đồ án .net\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\bin\Debug\DevExpress.Dashboard.v24.1.Core.dll
+F:\Files\Đồ án .net\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\bin\Debug\DevExpress.Dashboard.v24.1.Win.dll
+F:\Files\Đồ án .net\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\bin\Debug\DevExpress.DataAccess.v24.1.dll
+F:\Files\Đồ án .net\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\bin\Debug\DevExpress.DataAccess.v24.1.UI.dll
+F:\Files\Đồ án .net\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\bin\Debug\DevExpress.Map.v24.1.Core.dll
+F:\Files\Đồ án .net\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\bin\Debug\DevExpress.Office.v24.1.Core.dll
+F:\Files\Đồ án .net\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\bin\Debug\DevExpress.PivotGrid.v24.1.Core.dll
+F:\Files\Đồ án .net\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\bin\Debug\DevExpress.RichEdit.v24.1.Core.dll
+F:\Files\Đồ án .net\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\bin\Debug\DevExpress.TreeMap.v24.1.Core.dll
+F:\Files\Đồ án .net\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\bin\Debug\DevExpress.Utils.v24.1.UI.dll
+F:\Files\Đồ án .net\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\bin\Debug\DevExpress.Xpo.v24.1.dll
+F:\Files\Đồ án .net\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\bin\Debug\DevExpress.XtraBars.v24.1.dll
+F:\Files\Đồ án .net\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\bin\Debug\DevExpress.XtraCharts.v24.1.dll
+F:\Files\Đồ án .net\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\bin\Debug\DevExpress.XtraCharts.v24.1.UI.dll
+F:\Files\Đồ án .net\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\bin\Debug\DevExpress.XtraCharts.v24.1.Wizard.dll
+F:\Files\Đồ án .net\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\bin\Debug\DevExpress.XtraGauges.v24.1.Core.dll
+F:\Files\Đồ án .net\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\bin\Debug\DevExpress.XtraGauges.v24.1.Presets.dll
+F:\Files\Đồ án .net\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\bin\Debug\DevExpress.XtraGauges.v24.1.Win.dll
+F:\Files\Đồ án .net\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\bin\Debug\DevExpress.XtraGrid.v24.1.dll
+F:\Files\Đồ án .net\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\bin\Debug\DevExpress.XtraLayout.v24.1.dll
+F:\Files\Đồ án .net\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\bin\Debug\DevExpress.XtraMap.v24.1.dll
+F:\Files\Đồ án .net\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\bin\Debug\DevExpress.XtraPivotGrid.v24.1.dll
+F:\Files\Đồ án .net\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\bin\Debug\DevExpress.XtraPrinting.v24.1.dll
+F:\Files\Đồ án .net\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\bin\Debug\DevExpress.XtraReports.v24.1.dll
+F:\Files\Đồ án .net\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\bin\Debug\DevExpress.XtraRichEdit.v24.1.dll
+F:\Files\Đồ án .net\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\bin\Debug\DevExpress.XtraTreeList.v24.1.dll
+F:\Files\Đồ án .net\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\bin\Debug\DevExpress.XtraTreeMap.v24.1.dll
+F:\Files\Đồ án .net\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\bin\Debug\DevExpress.XtraTreeMap.v24.1.UI.dll
+F:\Files\Đồ án .net\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\bin\Debug\DevExpress.CodeParser.v24.1.dll
+F:\Files\Đồ án .net\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\bin\Debug\DevExpress.XtraDiagram.v24.1.dll
+F:\Files\Đồ án .net\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\bin\Debug\DevExpress.Diagram.v24.1.Core.dll
+F:\Files\Đồ án .net\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\bin\Debug\DevExpress.XtraVerticalGrid.v24.1.dll
+F:\Files\Đồ án .net\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\bin\Debug\DevExpress.DataVisualization.v24.1.Core.dll
+F:\Files\Đồ án .net\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\bin\Debug\DevExpress.XtraNavBar.v24.1.dll
+F:\Files\Đồ án .net\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\bin\Debug\DevExpress.Images.v24.1.dll
+F:\Files\Đồ án .net\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\bin\Debug\DevExpress.Charts.v24.1.Core.xml
+F:\Files\Đồ án .net\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\bin\Debug\DevExpress.Dashboard.v24.1.Core.xml
+F:\Files\Đồ án .net\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\bin\Debug\DevExpress.Dashboard.v24.1.Win.xml
+F:\Files\Đồ án .net\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\bin\Debug\DevExpress.DataAccess.v24.1.xml
+F:\Files\Đồ án .net\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\bin\Debug\DevExpress.DataAccess.v24.1.UI.xml
+F:\Files\Đồ án .net\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\bin\Debug\DevExpress.Map.v24.1.Core.xml
+F:\Files\Đồ án .net\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\bin\Debug\DevExpress.Office.v24.1.Core.xml
+F:\Files\Đồ án .net\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\bin\Debug\DevExpress.PivotGrid.v24.1.Core.xml
+F:\Files\Đồ án .net\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\bin\Debug\DevExpress.RichEdit.v24.1.Core.xml
+F:\Files\Đồ án .net\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\bin\Debug\DevExpress.TreeMap.v24.1.Core.xml
+F:\Files\Đồ án .net\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\bin\Debug\DevExpress.Utils.v24.1.UI.xml
+F:\Files\Đồ án .net\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\bin\Debug\DevExpress.Xpo.v24.1.xml
+F:\Files\Đồ án .net\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\bin\Debug\DevExpress.XtraBars.v24.1.xml
+F:\Files\Đồ án .net\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\bin\Debug\DevExpress.XtraCharts.v24.1.xml
+F:\Files\Đồ án .net\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\bin\Debug\DevExpress.XtraCharts.v24.1.UI.xml
+F:\Files\Đồ án .net\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\bin\Debug\DevExpress.XtraCharts.v24.1.Wizard.xml
+F:\Files\Đồ án .net\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\bin\Debug\DevExpress.XtraGauges.v24.1.Core.xml
+F:\Files\Đồ án .net\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\bin\Debug\DevExpress.XtraGauges.v24.1.Presets.xml
+F:\Files\Đồ án .net\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\bin\Debug\DevExpress.XtraGauges.v24.1.Win.xml
+F:\Files\Đồ án .net\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\bin\Debug\DevExpress.XtraGrid.v24.1.xml
+F:\Files\Đồ án .net\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\bin\Debug\DevExpress.XtraLayout.v24.1.xml
+F:\Files\Đồ án .net\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\bin\Debug\DevExpress.XtraMap.v24.1.xml
+F:\Files\Đồ án .net\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\bin\Debug\DevExpress.XtraPivotGrid.v24.1.xml
+F:\Files\Đồ án .net\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\bin\Debug\DevExpress.XtraPrinting.v24.1.xml
+F:\Files\Đồ án .net\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\bin\Debug\DevExpress.XtraReports.v24.1.xml
+F:\Files\Đồ án .net\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\bin\Debug\DevExpress.XtraRichEdit.v24.1.xml
+F:\Files\Đồ án .net\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\bin\Debug\DevExpress.XtraTreeList.v24.1.xml
+F:\Files\Đồ án .net\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\bin\Debug\DevExpress.XtraTreeMap.v24.1.xml
+F:\Files\Đồ án .net\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\bin\Debug\DevExpress.XtraTreeMap.v24.1.UI.xml
+F:\Files\Đồ án .net\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\bin\Debug\DevExpress.XtraDiagram.v24.1.xml
+F:\Files\Đồ án .net\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\bin\Debug\DevExpress.Diagram.v24.1.Core.xml
+F:\Files\Đồ án .net\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\bin\Debug\DevExpress.XtraVerticalGrid.v24.1.xml
+F:\Files\Đồ án .net\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\bin\Debug\DevExpress.XtraNavBar.v24.1.xml
+F:\Files\Đồ án .net\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\obj\Debug\QuanLySanBongMini.exe.licenses
+F:\Files\Đồ án .net\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\bin\Debug\Guna.UI.dll
+F:\Files\Đồ án .net\QuanLySanBongMini_1\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\bin\Debug\QuanLySanBongMini.exe.config
+F:\Files\Đồ án .net\QuanLySanBongMini_1\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\bin\Debug\QuanLySanBongMini.exe
+F:\Files\Đồ án .net\QuanLySanBongMini_1\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\bin\Debug\QuanLySanBongMini.pdb
+F:\Files\Đồ án .net\QuanLySanBongMini_1\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\bin\Debug\FontAwesome.Sharp.dll
+F:\Files\Đồ án .net\QuanLySanBongMini_1\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\obj\Debug\QuanLySanBongMini.csproj.AssemblyReference.cache
+F:\Files\Đồ án .net\QuanLySanBongMini_1\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\obj\Debug\QuanLySanBongMini.FrmMain.resources
+F:\Files\Đồ án .net\QuanLySanBongMini_1\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\obj\Debug\QuanLySanBongMini.frm_DangNhap.resources
+F:\Files\Đồ án .net\QuanLySanBongMini_1\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\obj\Debug\QuanLySanBongMini.frm_DatSan.resources
+F:\Files\Đồ án .net\QuanLySanBongMini_1\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\obj\Debug\QuanLySanBongMini.frm_HoaDon.resources
+F:\Files\Đồ án .net\QuanLySanBongMini_1\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\obj\Debug\QuanLySanBongMini.frm_QLSan.resources
+F:\Files\Đồ án .net\QuanLySanBongMini_1\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\obj\Debug\QuanLySanBongMini.frm_ThongKe.resources
+F:\Files\Đồ án .net\QuanLySanBongMini_1\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\obj\Debug\QuanLySanBongMini.Properties.Resources.resources
+F:\Files\Đồ án .net\QuanLySanBongMini_1\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\obj\Debug\QuanLySanBongMini.QLTaiKhoan.resources
+F:\Files\Đồ án .net\QuanLySanBongMini_1\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\obj\Debug\QuanLySanBongMini.QLTaiKhoanCaNhan.resources
+F:\Files\Đồ án .net\QuanLySanBongMini_1\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\obj\Debug\QuanLySanBongMini.csproj.GenerateResource.cache
+F:\Files\Đồ án .net\QuanLySanBongMini_1\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\obj\Debug\QuanLySanBongMini.exe.licenses
+F:\Files\Đồ án .net\QuanLySanBongMini_1\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\obj\Debug\QuanLySanBongMini.csproj.CoreCompileInputs.cache
+F:\Files\Đồ án .net\QuanLySanBongMini_1\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\obj\Debug\QuanLySa.EE94099F.Up2Date
+F:\Files\Đồ án .net\QuanLySanBongMini_1\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\obj\Debug\QuanLySanBongMini.exe
+F:\Files\Đồ án .net\QuanLySanBongMini_1\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\obj\Debug\QuanLySanBongMini.pdb
+C:\Users\xuanb\TL Nam2\QuanLySanBongMini (1)\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\bin\Debug\QuanLySanBongMini.exe.config
+C:\Users\xuanb\TL Nam2\QuanLySanBongMini (1)\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\bin\Debug\QuanLySanBongMini.exe
+C:\Users\xuanb\TL Nam2\QuanLySanBongMini (1)\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\bin\Debug\QuanLySanBongMini.pdb
+C:\Users\xuanb\TL Nam2\QuanLySanBongMini (1)\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\xuanb\TL Nam2\QuanLySanBongMini (1)\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\bin\Debug\DevExpress.CodeParser.v24.1.dll
+C:\Users\xuanb\TL Nam2\QuanLySanBongMini (1)\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\bin\Debug\DevExpress.XtraDiagram.v24.1.dll
+C:\Users\xuanb\TL Nam2\QuanLySanBongMini (1)\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\bin\Debug\DevExpress.Diagram.v24.1.Core.dll
+C:\Users\xuanb\TL Nam2\QuanLySanBongMini (1)\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\bin\Debug\DevExpress.Pdf.v24.1.Core.dll
+C:\Users\xuanb\TL Nam2\QuanLySanBongMini (1)\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\bin\Debug\DevExpress.Pdf.v24.1.Drawing.dll
+C:\Users\xuanb\TL Nam2\QuanLySanBongMini (1)\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\bin\Debug\DevExpress.XtraVerticalGrid.v24.1.dll
+C:\Users\xuanb\TL Nam2\QuanLySanBongMini (1)\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\bin\Debug\DevExpress.DataVisualization.v24.1.Core.dll
+C:\Users\xuanb\TL Nam2\QuanLySanBongMini (1)\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\bin\Debug\DevExpress.XtraNavBar.v24.1.dll
+C:\Users\xuanb\TL Nam2\QuanLySanBongMini (1)\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\bin\Debug\DevExpress.Images.v24.1.dll
+C:\Users\xuanb\TL Nam2\QuanLySanBongMini (1)\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\bin\Debug\DevExpress.Charts.v24.1.Core.xml
+C:\Users\xuanb\TL Nam2\QuanLySanBongMini (1)\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\bin\Debug\DevExpress.Dashboard.v24.1.Core.xml
+C:\Users\xuanb\TL Nam2\QuanLySanBongMini (1)\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\bin\Debug\DevExpress.Dashboard.v24.1.Win.xml
+C:\Users\xuanb\TL Nam2\QuanLySanBongMini (1)\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\bin\Debug\DevExpress.Data.Desktop.v24.1.xml
+C:\Users\xuanb\TL Nam2\QuanLySanBongMini (1)\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\bin\Debug\DevExpress.Data.v24.1.xml
+C:\Users\xuanb\TL Nam2\QuanLySanBongMini (1)\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\bin\Debug\DevExpress.DataAccess.v24.1.xml
+C:\Users\xuanb\TL Nam2\QuanLySanBongMini (1)\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\bin\Debug\DevExpress.DataAccess.v24.1.UI.xml
+C:\Users\xuanb\TL Nam2\QuanLySanBongMini (1)\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\bin\Debug\DevExpress.Drawing.v24.1.xml
+C:\Users\xuanb\TL Nam2\QuanLySanBongMini (1)\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\bin\Debug\DevExpress.Map.v24.1.Core.xml
+C:\Users\xuanb\TL Nam2\QuanLySanBongMini (1)\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\bin\Debug\DevExpress.Office.v24.1.Core.xml
+C:\Users\xuanb\TL Nam2\QuanLySanBongMini (1)\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\bin\Debug\DevExpress.PivotGrid.v24.1.Core.xml
+C:\Users\xuanb\TL Nam2\QuanLySanBongMini (1)\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\bin\Debug\DevExpress.Printing.v24.1.Core.xml
+C:\Users\xuanb\TL Nam2\QuanLySanBongMini (1)\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\bin\Debug\DevExpress.RichEdit.v24.1.Core.xml
+C:\Users\xuanb\TL Nam2\QuanLySanBongMini (1)\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\bin\Debug\DevExpress.Sparkline.v24.1.Core.xml
+C:\Users\xuanb\TL Nam2\QuanLySanBongMini (1)\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\bin\Debug\DevExpress.TreeMap.v24.1.Core.xml
+C:\Users\xuanb\TL Nam2\QuanLySanBongMini (1)\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\bin\Debug\DevExpress.Utils.v24.1.xml
+C:\Users\xuanb\TL Nam2\QuanLySanBongMini (1)\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\bin\Debug\DevExpress.Utils.v24.1.UI.xml
+C:\Users\xuanb\TL Nam2\QuanLySanBongMini (1)\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\bin\Debug\DevExpress.Xpo.v24.1.xml
+C:\Users\xuanb\TL Nam2\QuanLySanBongMini (1)\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\bin\Debug\DevExpress.XtraBars.v24.1.xml
+C:\Users\xuanb\TL Nam2\QuanLySanBongMini (1)\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\bin\Debug\DevExpress.XtraCharts.v24.1.xml
+C:\Users\xuanb\TL Nam2\QuanLySanBongMini (1)\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\bin\Debug\DevExpress.XtraCharts.v24.1.UI.xml
+C:\Users\xuanb\TL Nam2\QuanLySanBongMini (1)\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\bin\Debug\DevExpress.XtraCharts.v24.1.Wizard.xml
+C:\Users\xuanb\TL Nam2\QuanLySanBongMini (1)\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\bin\Debug\DevExpress.XtraEditors.v24.1.xml
+C:\Users\xuanb\TL Nam2\QuanLySanBongMini (1)\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\bin\Debug\DevExpress.XtraGauges.v24.1.Core.xml
+C:\Users\xuanb\TL Nam2\QuanLySanBongMini (1)\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\bin\Debug\DevExpress.XtraGauges.v24.1.Presets.xml
+C:\Users\xuanb\TL Nam2\QuanLySanBongMini (1)\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\bin\Debug\DevExpress.XtraGauges.v24.1.Win.xml
+C:\Users\xuanb\TL Nam2\QuanLySanBongMini (1)\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\bin\Debug\DevExpress.XtraGrid.v24.1.xml
+C:\Users\xuanb\TL Nam2\QuanLySanBongMini (1)\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\bin\Debug\DevExpress.XtraLayout.v24.1.xml
+C:\Users\xuanb\TL Nam2\QuanLySanBongMini (1)\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\bin\Debug\DevExpress.XtraMap.v24.1.xml
+C:\Users\xuanb\TL Nam2\QuanLySanBongMini (1)\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\bin\Debug\DevExpress.XtraPivotGrid.v24.1.xml
+C:\Users\xuanb\TL Nam2\QuanLySanBongMini (1)\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\bin\Debug\DevExpress.XtraPrinting.v24.1.xml
+C:\Users\xuanb\TL Nam2\QuanLySanBongMini (1)\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\bin\Debug\DevExpress.XtraReports.v24.1.xml
+C:\Users\xuanb\TL Nam2\QuanLySanBongMini (1)\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\bin\Debug\DevExpress.XtraRichEdit.v24.1.xml
+C:\Users\xuanb\TL Nam2\QuanLySanBongMini (1)\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\bin\Debug\DevExpress.XtraTreeList.v24.1.xml
+C:\Users\xuanb\TL Nam2\QuanLySanBongMini (1)\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\bin\Debug\DevExpress.XtraTreeMap.v24.1.xml
+C:\Users\xuanb\TL Nam2\QuanLySanBongMini (1)\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\bin\Debug\DevExpress.XtraTreeMap.v24.1.UI.xml
+C:\Users\xuanb\TL Nam2\QuanLySanBongMini (1)\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\bin\Debug\DevExpress.XtraDiagram.v24.1.xml
+C:\Users\xuanb\TL Nam2\QuanLySanBongMini (1)\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\bin\Debug\DevExpress.Diagram.v24.1.Core.xml
+C:\Users\xuanb\TL Nam2\QuanLySanBongMini (1)\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\bin\Debug\DevExpress.Pdf.v24.1.Core.xml
+C:\Users\xuanb\TL Nam2\QuanLySanBongMini (1)\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\bin\Debug\DevExpress.Pdf.v24.1.Drawing.xml
+C:\Users\xuanb\TL Nam2\QuanLySanBongMini (1)\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\bin\Debug\DevExpress.XtraVerticalGrid.v24.1.xml
+C:\Users\xuanb\TL Nam2\QuanLySanBongMini (1)\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\bin\Debug\DevExpress.XtraNavBar.v24.1.xml
+C:\Users\xuanb\TL Nam2\QuanLySanBongMini (1)\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\obj\Debug\QuanLySanBongMini.csproj.AssemblyReference.cache
+C:\Users\xuanb\TL Nam2\QuanLySanBongMini (1)\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\obj\Debug\QuanLySanBongMini.FrmMain.resources
+C:\Users\xuanb\TL Nam2\QuanLySanBongMini (1)\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\obj\Debug\QuanLySanBongMini.frm_DangNhap.resources
+C:\Users\xuanb\TL Nam2\QuanLySanBongMini (1)\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\obj\Debug\QuanLySanBongMini.frm_DatSan.resources
+C:\Users\xuanb\TL Nam2\QuanLySanBongMini (1)\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\obj\Debug\QuanLySanBongMini.frm_HoaDon.resources
+C:\Users\xuanb\TL Nam2\QuanLySanBongMini (1)\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\obj\Debug\QuanLySanBongMini.frm_QLSan.resources
+C:\Users\xuanb\TL Nam2\QuanLySanBongMini (1)\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\obj\Debug\QuanLySanBongMini.frm_ThongKe.resources
+C:\Users\xuanb\TL Nam2\QuanLySanBongMini (1)\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\obj\Debug\QuanLySanBongMini.Properties.Resources.resources
+C:\Users\xuanb\TL Nam2\QuanLySanBongMini (1)\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\obj\Debug\QuanLySanBongMini.QLTaiKhoan.resources
+C:\Users\xuanb\TL Nam2\QuanLySanBongMini (1)\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\obj\Debug\QuanLySanBongMini.QLTaiKhoanCaNhan.resources
+C:\Users\xuanb\TL Nam2\QuanLySanBongMini (1)\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\obj\Debug\QuanLySanBongMini.csproj.GenerateResource.cache
+C:\Users\xuanb\TL Nam2\QuanLySanBongMini (1)\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\obj\Debug\QuanLySanBongMini.exe.licenses
+C:\Users\xuanb\TL Nam2\QuanLySanBongMini (1)\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\obj\Debug\QuanLySanBongMini.csproj.CoreCompileInputs.cache
+C:\Users\xuanb\TL Nam2\QuanLySanBongMini (1)\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\obj\Debug\QuanLySanBongMini.csproj.CopyComplete
+C:\Users\xuanb\TL Nam2\QuanLySanBongMini (1)\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\obj\Debug\QuanLySanBongMini.exe
+C:\Users\xuanb\TL Nam2\QuanLySanBongMini (1)\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\obj\Debug\QuanLySanBongMini.pdb
+C:\Users\xuanb\TL Nam2\QuanLySanBongMini (1)\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\obj\Debug\QuanLySanBongMini.inhoadon.resources
+D:\Zalo recieved files\QuanLySanBongMini (1) (1)\QuanLySanBongMini (1)\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\bin\Debug\QuanLySanBongMini.exe.config
+D:\Zalo recieved files\QuanLySanBongMini (1) (1)\QuanLySanBongMini (1)\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\bin\Debug\QuanLySanBongMini.exe
+D:\Zalo recieved files\QuanLySanBongMini (1) (1)\QuanLySanBongMini (1)\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\bin\Debug\QuanLySanBongMini.pdb
+D:\Zalo recieved files\QuanLySanBongMini (1) (1)\QuanLySanBongMini (1)\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\bin\Debug\FontAwesome.Sharp.dll
+D:\Zalo recieved files\QuanLySanBongMini (1) (1)\QuanLySanBongMini (1)\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\bin\Debug\DevExpress.CodeParser.v24.1.dll
+D:\Zalo recieved files\QuanLySanBongMini (1) (1)\QuanLySanBongMini (1)\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\bin\Debug\DevExpress.XtraDiagram.v24.1.dll
+D:\Zalo recieved files\QuanLySanBongMini (1) (1)\QuanLySanBongMini (1)\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\bin\Debug\DevExpress.Diagram.v24.1.Core.dll
+D:\Zalo recieved files\QuanLySanBongMini (1) (1)\QuanLySanBongMini (1)\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\bin\Debug\DevExpress.Pdf.v24.1.Core.dll
+D:\Zalo recieved files\QuanLySanBongMini (1) (1)\QuanLySanBongMini (1)\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\bin\Debug\DevExpress.Pdf.v24.1.Drawing.dll
+D:\Zalo recieved files\QuanLySanBongMini (1) (1)\QuanLySanBongMini (1)\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\bin\Debug\DevExpress.XtraVerticalGrid.v24.1.dll
+D:\Zalo recieved files\QuanLySanBongMini (1) (1)\QuanLySanBongMini (1)\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\bin\Debug\DevExpress.DataVisualization.v24.1.Core.dll
+D:\Zalo recieved files\QuanLySanBongMini (1) (1)\QuanLySanBongMini (1)\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\bin\Debug\DevExpress.XtraNavBar.v24.1.dll
+D:\Zalo recieved files\QuanLySanBongMini (1) (1)\QuanLySanBongMini (1)\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\bin\Debug\DevExpress.Images.v24.1.dll
+D:\Zalo recieved files\QuanLySanBongMini (1) (1)\QuanLySanBongMini (1)\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\bin\Debug\DevExpress.Charts.v24.1.Core.xml
+D:\Zalo recieved files\QuanLySanBongMini (1) (1)\QuanLySanBongMini (1)\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\bin\Debug\DevExpress.Dashboard.v24.1.Core.xml
+D:\Zalo recieved files\QuanLySanBongMini (1) (1)\QuanLySanBongMini (1)\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\bin\Debug\DevExpress.Dashboard.v24.1.Win.xml
+D:\Zalo recieved files\QuanLySanBongMini (1) (1)\QuanLySanBongMini (1)\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\bin\Debug\DevExpress.Data.Desktop.v24.1.xml
+D:\Zalo recieved files\QuanLySanBongMini (1) (1)\QuanLySanBongMini (1)\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\bin\Debug\DevExpress.Data.v24.1.xml
+D:\Zalo recieved files\QuanLySanBongMini (1) (1)\QuanLySanBongMini (1)\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\bin\Debug\DevExpress.DataAccess.v24.1.xml
+D:\Zalo recieved files\QuanLySanBongMini (1) (1)\QuanLySanBongMini (1)\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\bin\Debug\DevExpress.DataAccess.v24.1.UI.xml
+D:\Zalo recieved files\QuanLySanBongMini (1) (1)\QuanLySanBongMini (1)\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\bin\Debug\DevExpress.Drawing.v24.1.xml
+D:\Zalo recieved files\QuanLySanBongMini (1) (1)\QuanLySanBongMini (1)\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\bin\Debug\DevExpress.Map.v24.1.Core.xml
+D:\Zalo recieved files\QuanLySanBongMini (1) (1)\QuanLySanBongMini (1)\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\bin\Debug\DevExpress.Office.v24.1.Core.xml
+D:\Zalo recieved files\QuanLySanBongMini (1) (1)\QuanLySanBongMini (1)\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\bin\Debug\DevExpress.PivotGrid.v24.1.Core.xml
+D:\Zalo recieved files\QuanLySanBongMini (1) (1)\QuanLySanBongMini (1)\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\bin\Debug\DevExpress.Printing.v24.1.Core.xml
+D:\Zalo recieved files\QuanLySanBongMini (1) (1)\QuanLySanBongMini (1)\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\bin\Debug\DevExpress.RichEdit.v24.1.Core.xml
+D:\Zalo recieved files\QuanLySanBongMini (1) (1)\QuanLySanBongMini (1)\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\bin\Debug\DevExpress.Sparkline.v24.1.Core.xml
+D:\Zalo recieved files\QuanLySanBongMini (1) (1)\QuanLySanBongMini (1)\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\bin\Debug\DevExpress.TreeMap.v24.1.Core.xml
+D:\Zalo recieved files\QuanLySanBongMini (1) (1)\QuanLySanBongMini (1)\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\bin\Debug\DevExpress.Utils.v24.1.xml
+D:\Zalo recieved files\QuanLySanBongMini (1) (1)\QuanLySanBongMini (1)\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\bin\Debug\DevExpress.Utils.v24.1.UI.xml
+D:\Zalo recieved files\QuanLySanBongMini (1) (1)\QuanLySanBongMini (1)\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\bin\Debug\DevExpress.Xpo.v24.1.xml
+D:\Zalo recieved files\QuanLySanBongMini (1) (1)\QuanLySanBongMini (1)\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\bin\Debug\DevExpress.XtraBars.v24.1.xml
+D:\Zalo recieved files\QuanLySanBongMini (1) (1)\QuanLySanBongMini (1)\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\bin\Debug\DevExpress.XtraCharts.v24.1.xml
+D:\Zalo recieved files\QuanLySanBongMini (1) (1)\QuanLySanBongMini (1)\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\bin\Debug\DevExpress.XtraCharts.v24.1.UI.xml
+D:\Zalo recieved files\QuanLySanBongMini (1) (1)\QuanLySanBongMini (1)\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\bin\Debug\DevExpress.XtraCharts.v24.1.Wizard.xml
+D:\Zalo recieved files\QuanLySanBongMini (1) (1)\QuanLySanBongMini (1)\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\bin\Debug\DevExpress.XtraEditors.v24.1.xml
+D:\Zalo recieved files\QuanLySanBongMini (1) (1)\QuanLySanBongMini (1)\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\bin\Debug\DevExpress.XtraGauges.v24.1.Core.xml
+D:\Zalo recieved files\QuanLySanBongMini (1) (1)\QuanLySanBongMini (1)\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\bin\Debug\DevExpress.XtraGauges.v24.1.Presets.xml
+D:\Zalo recieved files\QuanLySanBongMini (1) (1)\QuanLySanBongMini (1)\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\bin\Debug\DevExpress.XtraGauges.v24.1.Win.xml
+D:\Zalo recieved files\QuanLySanBongMini (1) (1)\QuanLySanBongMini (1)\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\bin\Debug\DevExpress.XtraGrid.v24.1.xml
+D:\Zalo recieved files\QuanLySanBongMini (1) (1)\QuanLySanBongMini (1)\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\bin\Debug\DevExpress.XtraLayout.v24.1.xml
+D:\Zalo recieved files\QuanLySanBongMini (1) (1)\QuanLySanBongMini (1)\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\bin\Debug\DevExpress.XtraMap.v24.1.xml
+D:\Zalo recieved files\QuanLySanBongMini (1) (1)\QuanLySanBongMini (1)\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\bin\Debug\DevExpress.XtraPivotGrid.v24.1.xml
+D:\Zalo recieved files\QuanLySanBongMini (1) (1)\QuanLySanBongMini (1)\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\bin\Debug\DevExpress.XtraPrinting.v24.1.xml
+D:\Zalo recieved files\QuanLySanBongMini (1) (1)\QuanLySanBongMini (1)\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\bin\Debug\DevExpress.XtraReports.v24.1.xml
+D:\Zalo recieved files\QuanLySanBongMini (1) (1)\QuanLySanBongMini (1)\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\bin\Debug\DevExpress.XtraRichEdit.v24.1.xml
+D:\Zalo recieved files\QuanLySanBongMini (1) (1)\QuanLySanBongMini (1)\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\bin\Debug\DevExpress.XtraTreeList.v24.1.xml
+D:\Zalo recieved files\QuanLySanBongMini (1) (1)\QuanLySanBongMini (1)\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\bin\Debug\DevExpress.XtraTreeMap.v24.1.xml
+D:\Zalo recieved files\QuanLySanBongMini (1) (1)\QuanLySanBongMini (1)\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\bin\Debug\DevExpress.XtraTreeMap.v24.1.UI.xml
+D:\Zalo recieved files\QuanLySanBongMini (1) (1)\QuanLySanBongMini (1)\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\bin\Debug\DevExpress.XtraDiagram.v24.1.xml
+D:\Zalo recieved files\QuanLySanBongMini (1) (1)\QuanLySanBongMini (1)\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\bin\Debug\DevExpress.Diagram.v24.1.Core.xml
+D:\Zalo recieved files\QuanLySanBongMini (1) (1)\QuanLySanBongMini (1)\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\bin\Debug\DevExpress.Pdf.v24.1.Core.xml
+D:\Zalo recieved files\QuanLySanBongMini (1) (1)\QuanLySanBongMini (1)\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\bin\Debug\DevExpress.Pdf.v24.1.Drawing.xml
+D:\Zalo recieved files\QuanLySanBongMini (1) (1)\QuanLySanBongMini (1)\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\bin\Debug\DevExpress.XtraVerticalGrid.v24.1.xml
+D:\Zalo recieved files\QuanLySanBongMini (1) (1)\QuanLySanBongMini (1)\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\bin\Debug\DevExpress.XtraNavBar.v24.1.xml
+D:\Zalo recieved files\QuanLySanBongMini (1) (1)\QuanLySanBongMini (1)\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\obj\Debug\QuanLySanBongMini.csproj.AssemblyReference.cache
+D:\Zalo recieved files\QuanLySanBongMini (1) (1)\QuanLySanBongMini (1)\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\obj\Debug\QuanLySanBongMini.FrmMain.resources
+D:\Zalo recieved files\QuanLySanBongMini (1) (1)\QuanLySanBongMini (1)\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\obj\Debug\QuanLySanBongMini.frm_DangNhap.resources
+D:\Zalo recieved files\QuanLySanBongMini (1) (1)\QuanLySanBongMini (1)\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\obj\Debug\QuanLySanBongMini.frm_DatSan.resources
+D:\Zalo recieved files\QuanLySanBongMini (1) (1)\QuanLySanBongMini (1)\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\obj\Debug\QuanLySanBongMini.frm_HoaDon.resources
+D:\Zalo recieved files\QuanLySanBongMini (1) (1)\QuanLySanBongMini (1)\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\obj\Debug\QuanLySanBongMini.frm_QLSan.resources
+D:\Zalo recieved files\QuanLySanBongMini (1) (1)\QuanLySanBongMini (1)\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\obj\Debug\QuanLySanBongMini.frm_ThongKe.resources
+D:\Zalo recieved files\QuanLySanBongMini (1) (1)\QuanLySanBongMini (1)\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\obj\Debug\QuanLySanBongMini.inhoadon.resources
+D:\Zalo recieved files\QuanLySanBongMini (1) (1)\QuanLySanBongMini (1)\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\obj\Debug\QuanLySanBongMini.Properties.Resources.resources
+D:\Zalo recieved files\QuanLySanBongMini (1) (1)\QuanLySanBongMini (1)\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\obj\Debug\QuanLySanBongMini.QLTaiKhoan.resources
+D:\Zalo recieved files\QuanLySanBongMini (1) (1)\QuanLySanBongMini (1)\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\obj\Debug\QuanLySanBongMini.QLTaiKhoanCaNhan.resources
+D:\Zalo recieved files\QuanLySanBongMini (1) (1)\QuanLySanBongMini (1)\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\obj\Debug\QuanLySanBongMini.csproj.GenerateResource.cache
+D:\Zalo recieved files\QuanLySanBongMini (1) (1)\QuanLySanBongMini (1)\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\obj\Debug\QuanLySanBongMini.exe.licenses
+D:\Zalo recieved files\QuanLySanBongMini (1) (1)\QuanLySanBongMini (1)\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\obj\Debug\QuanLySanBongMini.csproj.CoreCompileInputs.cache
+D:\Zalo recieved files\QuanLySanBongMini (1) (1)\QuanLySanBongMini (1)\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\obj\Debug\QuanLySa.EE94099F.Up2Date
+D:\Zalo recieved files\QuanLySanBongMini (1) (1)\QuanLySanBongMini (1)\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\obj\Debug\QuanLySanBongMini.exe
+D:\Zalo recieved files\QuanLySanBongMini (1) (1)\QuanLySanBongMini (1)\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\obj\Debug\QuanLySanBongMini.pdb
+C:\Users\xuanb\TL Nam2\QuanLySanBongMini (1) (1)\QuanLySanBongMini (1) (1)\QuanLySanBongMini (1)\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\bin\Debug\QuanLySanBongMini.exe.config
+C:\Users\xuanb\TL Nam2\QuanLySanBongMini (1) (1)\QuanLySanBongMini (1) (1)\QuanLySanBongMini (1)\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\obj\Debug\QuanLySanBongMini.exe
+C:\Users\xuanb\TL Nam2\QuanLySanBongMini (1) (1)\QuanLySanBongMini (1) (1)\QuanLySanBongMini (1)\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\obj\Debug\QuanLySanBongMini.pdb
+C:\Users\xuanb\TL Nam2\QuanLySanBongMini (1) (1)\QuanLySanBongMini (1) (1)\QuanLySanBongMini (1)\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\bin\Debug\QuanLySanBongMini.exe
+C:\Users\xuanb\TL Nam2\QuanLySanBongMini (1) (1)\QuanLySanBongMini (1) (1)\QuanLySanBongMini (1)\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\bin\Debug\QuanLySanBongMini.pdb
+C:\Users\xuanb\TL Nam2\QuanLySanBongMini (1) (1)\QuanLySanBongMini (1) (1)\QuanLySanBongMini (1)\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\xuanb\TL Nam2\QuanLySanBongMini (1) (1)\QuanLySanBongMini (1) (1)\QuanLySanBongMini (1)\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\bin\Debug\DevExpress.CodeParser.v24.1.dll
+C:\Users\xuanb\TL Nam2\QuanLySanBongMini (1) (1)\QuanLySanBongMini (1) (1)\QuanLySanBongMini (1)\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\bin\Debug\DevExpress.XtraDiagram.v24.1.dll
+C:\Users\xuanb\TL Nam2\QuanLySanBongMini (1) (1)\QuanLySanBongMini (1) (1)\QuanLySanBongMini (1)\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\bin\Debug\DevExpress.Diagram.v24.1.Core.dll
+C:\Users\xuanb\TL Nam2\QuanLySanBongMini (1) (1)\QuanLySanBongMini (1) (1)\QuanLySanBongMini (1)\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\bin\Debug\DevExpress.Pdf.v24.1.Core.dll
+C:\Users\xuanb\TL Nam2\QuanLySanBongMini (1) (1)\QuanLySanBongMini (1) (1)\QuanLySanBongMini (1)\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\bin\Debug\DevExpress.Pdf.v24.1.Drawing.dll
+C:\Users\xuanb\TL Nam2\QuanLySanBongMini (1) (1)\QuanLySanBongMini (1) (1)\QuanLySanBongMini (1)\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\bin\Debug\DevExpress.XtraVerticalGrid.v24.1.dll
+C:\Users\xuanb\TL Nam2\QuanLySanBongMini (1) (1)\QuanLySanBongMini (1) (1)\QuanLySanBongMini (1)\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\bin\Debug\DevExpress.DataVisualization.v24.1.Core.dll
+C:\Users\xuanb\TL Nam2\QuanLySanBongMini (1) (1)\QuanLySanBongMini (1) (1)\QuanLySanBongMini (1)\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\bin\Debug\DevExpress.XtraNavBar.v24.1.dll
+C:\Users\xuanb\TL Nam2\QuanLySanBongMini (1) (1)\QuanLySanBongMini (1) (1)\QuanLySanBongMini (1)\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\bin\Debug\DevExpress.Images.v24.1.dll
+C:\Users\xuanb\TL Nam2\QuanLySanBongMini (1) (1)\QuanLySanBongMini (1) (1)\QuanLySanBongMini (1)\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\bin\Debug\DevExpress.Charts.v24.1.Core.xml
+C:\Users\xuanb\TL Nam2\QuanLySanBongMini (1) (1)\QuanLySanBongMini (1) (1)\QuanLySanBongMini (1)\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\bin\Debug\DevExpress.Dashboard.v24.1.Core.xml
+C:\Users\xuanb\TL Nam2\QuanLySanBongMini (1) (1)\QuanLySanBongMini (1) (1)\QuanLySanBongMini (1)\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\bin\Debug\DevExpress.Dashboard.v24.1.Win.xml
+C:\Users\xuanb\TL Nam2\QuanLySanBongMini (1) (1)\QuanLySanBongMini (1) (1)\QuanLySanBongMini (1)\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\bin\Debug\DevExpress.Data.Desktop.v24.1.xml
+C:\Users\xuanb\TL Nam2\QuanLySanBongMini (1) (1)\QuanLySanBongMini (1) (1)\QuanLySanBongMini (1)\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\bin\Debug\DevExpress.Data.v24.1.xml
+C:\Users\xuanb\TL Nam2\QuanLySanBongMini (1) (1)\QuanLySanBongMini (1) (1)\QuanLySanBongMini (1)\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\bin\Debug\DevExpress.DataAccess.v24.1.xml
+C:\Users\xuanb\TL Nam2\QuanLySanBongMini (1) (1)\QuanLySanBongMini (1) (1)\QuanLySanBongMini (1)\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\bin\Debug\DevExpress.DataAccess.v24.1.UI.xml
+C:\Users\xuanb\TL Nam2\QuanLySanBongMini (1) (1)\QuanLySanBongMini (1) (1)\QuanLySanBongMini (1)\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\bin\Debug\DevExpress.Drawing.v24.1.xml
+C:\Users\xuanb\TL Nam2\QuanLySanBongMini (1) (1)\QuanLySanBongMini (1) (1)\QuanLySanBongMini (1)\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\bin\Debug\DevExpress.Map.v24.1.Core.xml
+C:\Users\xuanb\TL Nam2\QuanLySanBongMini (1) (1)\QuanLySanBongMini (1) (1)\QuanLySanBongMini (1)\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\bin\Debug\DevExpress.Office.v24.1.Core.xml
+C:\Users\xuanb\TL Nam2\QuanLySanBongMini (1) (1)\QuanLySanBongMini (1) (1)\QuanLySanBongMini (1)\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\bin\Debug\DevExpress.PivotGrid.v24.1.Core.xml
+C:\Users\xuanb\TL Nam2\QuanLySanBongMini (1) (1)\QuanLySanBongMini (1) (1)\QuanLySanBongMini (1)\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\bin\Debug\DevExpress.Printing.v24.1.Core.xml
+C:\Users\xuanb\TL Nam2\QuanLySanBongMini (1) (1)\QuanLySanBongMini (1) (1)\QuanLySanBongMini (1)\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\bin\Debug\DevExpress.RichEdit.v24.1.Core.xml
+C:\Users\xuanb\TL Nam2\QuanLySanBongMini (1) (1)\QuanLySanBongMini (1) (1)\QuanLySanBongMini (1)\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\bin\Debug\DevExpress.Sparkline.v24.1.Core.xml
+C:\Users\xuanb\TL Nam2\QuanLySanBongMini (1) (1)\QuanLySanBongMini (1) (1)\QuanLySanBongMini (1)\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\bin\Debug\DevExpress.TreeMap.v24.1.Core.xml
+C:\Users\xuanb\TL Nam2\QuanLySanBongMini (1) (1)\QuanLySanBongMini (1) (1)\QuanLySanBongMini (1)\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\bin\Debug\DevExpress.Utils.v24.1.xml
+C:\Users\xuanb\TL Nam2\QuanLySanBongMini (1) (1)\QuanLySanBongMini (1) (1)\QuanLySanBongMini (1)\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\bin\Debug\DevExpress.Utils.v24.1.UI.xml
+C:\Users\xuanb\TL Nam2\QuanLySanBongMini (1) (1)\QuanLySanBongMini (1) (1)\QuanLySanBongMini (1)\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\bin\Debug\DevExpress.Xpo.v24.1.xml
+C:\Users\xuanb\TL Nam2\QuanLySanBongMini (1) (1)\QuanLySanBongMini (1) (1)\QuanLySanBongMini (1)\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\bin\Debug\DevExpress.XtraBars.v24.1.xml
+C:\Users\xuanb\TL Nam2\QuanLySanBongMini (1) (1)\QuanLySanBongMini (1) (1)\QuanLySanBongMini (1)\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\bin\Debug\DevExpress.XtraCharts.v24.1.xml
+C:\Users\xuanb\TL Nam2\QuanLySanBongMini (1) (1)\QuanLySanBongMini (1) (1)\QuanLySanBongMini (1)\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\bin\Debug\DevExpress.XtraCharts.v24.1.UI.xml
+C:\Users\xuanb\TL Nam2\QuanLySanBongMini (1) (1)\QuanLySanBongMini (1) (1)\QuanLySanBongMini (1)\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\bin\Debug\DevExpress.XtraCharts.v24.1.Wizard.xml
+C:\Users\xuanb\TL Nam2\QuanLySanBongMini (1) (1)\QuanLySanBongMini (1) (1)\QuanLySanBongMini (1)\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\bin\Debug\DevExpress.XtraEditors.v24.1.xml
+C:\Users\xuanb\TL Nam2\QuanLySanBongMini (1) (1)\QuanLySanBongMini (1) (1)\QuanLySanBongMini (1)\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\bin\Debug\DevExpress.XtraGauges.v24.1.Core.xml
+C:\Users\xuanb\TL Nam2\QuanLySanBongMini (1) (1)\QuanLySanBongMini (1) (1)\QuanLySanBongMini (1)\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\bin\Debug\DevExpress.XtraGauges.v24.1.Presets.xml
+C:\Users\xuanb\TL Nam2\QuanLySanBongMini (1) (1)\QuanLySanBongMini (1) (1)\QuanLySanBongMini (1)\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\bin\Debug\DevExpress.XtraGauges.v24.1.Win.xml
+C:\Users\xuanb\TL Nam2\QuanLySanBongMini (1) (1)\QuanLySanBongMini (1) (1)\QuanLySanBongMini (1)\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\bin\Debug\DevExpress.XtraGrid.v24.1.xml
+C:\Users\xuanb\TL Nam2\QuanLySanBongMini (1) (1)\QuanLySanBongMini (1) (1)\QuanLySanBongMini (1)\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\bin\Debug\DevExpress.XtraLayout.v24.1.xml
+C:\Users\xuanb\TL Nam2\QuanLySanBongMini (1) (1)\QuanLySanBongMini (1) (1)\QuanLySanBongMini (1)\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\bin\Debug\DevExpress.XtraMap.v24.1.xml
+C:\Users\xuanb\TL Nam2\QuanLySanBongMini (1) (1)\QuanLySanBongMini (1) (1)\QuanLySanBongMini (1)\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\bin\Debug\DevExpress.XtraPivotGrid.v24.1.xml
+C:\Users\xuanb\TL Nam2\QuanLySanBongMini (1) (1)\QuanLySanBongMini (1) (1)\QuanLySanBongMini (1)\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\bin\Debug\DevExpress.XtraPrinting.v24.1.xml
+C:\Users\xuanb\TL Nam2\QuanLySanBongMini (1) (1)\QuanLySanBongMini (1) (1)\QuanLySanBongMini (1)\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\bin\Debug\DevExpress.XtraReports.v24.1.xml
+C:\Users\xuanb\TL Nam2\QuanLySanBongMini (1) (1)\QuanLySanBongMini (1) (1)\QuanLySanBongMini (1)\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\bin\Debug\DevExpress.XtraRichEdit.v24.1.xml
+C:\Users\xuanb\TL Nam2\QuanLySanBongMini (1) (1)\QuanLySanBongMini (1) (1)\QuanLySanBongMini (1)\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\bin\Debug\DevExpress.XtraTreeList.v24.1.xml
+C:\Users\xuanb\TL Nam2\QuanLySanBongMini (1) (1)\QuanLySanBongMini (1) (1)\QuanLySanBongMini (1)\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\bin\Debug\DevExpress.XtraTreeMap.v24.1.xml
+C:\Users\xuanb\TL Nam2\QuanLySanBongMini (1) (1)\QuanLySanBongMini (1) (1)\QuanLySanBongMini (1)\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\bin\Debug\DevExpress.XtraTreeMap.v24.1.UI.xml
+C:\Users\xuanb\TL Nam2\QuanLySanBongMini (1) (1)\QuanLySanBongMini (1) (1)\QuanLySanBongMini (1)\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\bin\Debug\DevExpress.XtraDiagram.v24.1.xml
+C:\Users\xuanb\TL Nam2\QuanLySanBongMini (1) (1)\QuanLySanBongMini (1) (1)\QuanLySanBongMini (1)\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\bin\Debug\DevExpress.Diagram.v24.1.Core.xml
+C:\Users\xuanb\TL Nam2\QuanLySanBongMini (1) (1)\QuanLySanBongMini (1) (1)\QuanLySanBongMini (1)\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\bin\Debug\DevExpress.Pdf.v24.1.Core.xml
+C:\Users\xuanb\TL Nam2\QuanLySanBongMini (1) (1)\QuanLySanBongMini (1) (1)\QuanLySanBongMini (1)\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\bin\Debug\DevExpress.Pdf.v24.1.Drawing.xml
+C:\Users\xuanb\TL Nam2\QuanLySanBongMini (1) (1)\QuanLySanBongMini (1) (1)\QuanLySanBongMini (1)\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\bin\Debug\DevExpress.XtraVerticalGrid.v24.1.xml
+C:\Users\xuanb\TL Nam2\QuanLySanBongMini (1) (1)\QuanLySanBongMini (1) (1)\QuanLySanBongMini (1)\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\bin\Debug\DevExpress.XtraNavBar.v24.1.xml
+C:\Users\xuanb\TL Nam2\QuanLySanBongMini (1) (1)\QuanLySanBongMini (1) (1)\QuanLySanBongMini (1)\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\obj\Debug\QuanLySanBongMini.FrmMain.resources
+C:\Users\xuanb\TL Nam2\QuanLySanBongMini (1) (1)\QuanLySanBongMini (1) (1)\QuanLySanBongMini (1)\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\obj\Debug\QuanLySanBongMini.frm_DangNhap.resources
+C:\Users\xuanb\TL Nam2\QuanLySanBongMini (1) (1)\QuanLySanBongMini (1) (1)\QuanLySanBongMini (1)\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\obj\Debug\QuanLySanBongMini.frm_DatSan.resources
+C:\Users\xuanb\TL Nam2\QuanLySanBongMini (1) (1)\QuanLySanBongMini (1) (1)\QuanLySanBongMini (1)\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\obj\Debug\QuanLySanBongMini.frm_HoaDon.resources
+C:\Users\xuanb\TL Nam2\QuanLySanBongMini (1) (1)\QuanLySanBongMini (1) (1)\QuanLySanBongMini (1)\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\obj\Debug\QuanLySanBongMini.frm_QLSan.resources
+C:\Users\xuanb\TL Nam2\QuanLySanBongMini (1) (1)\QuanLySanBongMini (1) (1)\QuanLySanBongMini (1)\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\obj\Debug\QuanLySanBongMini.frm_ThongKe.resources
+C:\Users\xuanb\TL Nam2\QuanLySanBongMini (1) (1)\QuanLySanBongMini (1) (1)\QuanLySanBongMini (1)\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\obj\Debug\QuanLySanBongMini.inhoadon.resources
+C:\Users\xuanb\TL Nam2\QuanLySanBongMini (1) (1)\QuanLySanBongMini (1) (1)\QuanLySanBongMini (1)\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\obj\Debug\QuanLySanBongMini.Properties.Resources.resources
+C:\Users\xuanb\TL Nam2\QuanLySanBongMini (1) (1)\QuanLySanBongMini (1) (1)\QuanLySanBongMini (1)\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\obj\Debug\QuanLySanBongMini.QLTaiKhoan.resources
+C:\Users\xuanb\TL Nam2\QuanLySanBongMini (1) (1)\QuanLySanBongMini (1) (1)\QuanLySanBongMini (1)\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\obj\Debug\QuanLySanBongMini.QLTaiKhoanCaNhan.resources
+C:\Users\xuanb\TL Nam2\QuanLySanBongMini (1) (1)\QuanLySanBongMini (1) (1)\QuanLySanBongMini (1)\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\obj\Debug\QuanLySanBongMini.csproj.GenerateResource.Cache
+C:\Users\xuanb\TL Nam2\QuanLySanBongMini (1) (1)\QuanLySanBongMini (1) (1)\QuanLySanBongMini (1)\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\obj\Debug\QuanLySanBongMini.exe.licenses
+C:\Users\xuanb\TL Nam2\QuanLySanBongMini (1) (1)\QuanLySanBongMini (1) (1)\QuanLySanBongMini (1)\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\obj\Debug\QuanLySanBongMini.frm_report.resources
+C:\Users\xuanb\TL Nam2\QuanLySanBongMini (1) (1)\QuanLySanBongMini (1) (1)\QuanLySanBongMini (1)\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\obj\Debug\QuanLySanBongMini.csproj.AssemblyReference.cache
+C:\Users\xuanb\TL Nam2\QuanLySanBongMini (1) (1)\QuanLySanBongMini (1) (1)\QuanLySanBongMini (1)\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\obj\Debug\QuanLySanBongMini.csproj.CoreCompileInputs.cache
+C:\Users\xuanb\TL Nam2\QuanLySanBongMini (1) (1)\QuanLySanBongMini (1) (1)\QuanLySanBongMini (1)\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\obj\Debug\QuanLySa.EE94099F.Up2Date
+C:\Users\xuanb\OneDrive\Desktop\QuanLySanBongMini (1)\QuanLySanBongMini (1)\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\bin\Debug\QuanLySanBongMini.exe.config
+C:\Users\xuanb\OneDrive\Desktop\QuanLySanBongMini (1)\QuanLySanBongMini (1)\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\bin\Debug\QuanLySanBongMini.exe
+C:\Users\xuanb\OneDrive\Desktop\QuanLySanBongMini (1)\QuanLySanBongMini (1)\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\bin\Debug\QuanLySanBongMini.pdb
+C:\Users\xuanb\OneDrive\Desktop\QuanLySanBongMini (1)\QuanLySanBongMini (1)\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\xuanb\OneDrive\Desktop\QuanLySanBongMini (1)\QuanLySanBongMini (1)\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\bin\Debug\DevExpress.CodeParser.v24.1.dll
+C:\Users\xuanb\OneDrive\Desktop\QuanLySanBongMini (1)\QuanLySanBongMini (1)\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\bin\Debug\DevExpress.XtraDiagram.v24.1.dll
+C:\Users\xuanb\OneDrive\Desktop\QuanLySanBongMini (1)\QuanLySanBongMini (1)\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\bin\Debug\DevExpress.Diagram.v24.1.Core.dll
+C:\Users\xuanb\OneDrive\Desktop\QuanLySanBongMini (1)\QuanLySanBongMini (1)\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\bin\Debug\DevExpress.Pdf.v24.1.Core.dll
+C:\Users\xuanb\OneDrive\Desktop\QuanLySanBongMini (1)\QuanLySanBongMini (1)\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\bin\Debug\DevExpress.Pdf.v24.1.Drawing.dll
+C:\Users\xuanb\OneDrive\Desktop\QuanLySanBongMini (1)\QuanLySanBongMini (1)\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\bin\Debug\DevExpress.XtraVerticalGrid.v24.1.dll
+C:\Users\xuanb\OneDrive\Desktop\QuanLySanBongMini (1)\QuanLySanBongMini (1)\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\bin\Debug\DevExpress.DataVisualization.v24.1.Core.dll
+C:\Users\xuanb\OneDrive\Desktop\QuanLySanBongMini (1)\QuanLySanBongMini (1)\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\bin\Debug\DevExpress.XtraNavBar.v24.1.dll
+C:\Users\xuanb\OneDrive\Desktop\QuanLySanBongMini (1)\QuanLySanBongMini (1)\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\bin\Debug\DevExpress.Images.v24.1.dll
+C:\Users\xuanb\OneDrive\Desktop\QuanLySanBongMini (1)\QuanLySanBongMini (1)\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\bin\Debug\DevExpress.Charts.v24.1.Core.xml
+C:\Users\xuanb\OneDrive\Desktop\QuanLySanBongMini (1)\QuanLySanBongMini (1)\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\bin\Debug\DevExpress.Dashboard.v24.1.Core.xml
+C:\Users\xuanb\OneDrive\Desktop\QuanLySanBongMini (1)\QuanLySanBongMini (1)\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\bin\Debug\DevExpress.Dashboard.v24.1.Win.xml
+C:\Users\xuanb\OneDrive\Desktop\QuanLySanBongMini (1)\QuanLySanBongMini (1)\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\bin\Debug\DevExpress.Data.Desktop.v24.1.xml
+C:\Users\xuanb\OneDrive\Desktop\QuanLySanBongMini (1)\QuanLySanBongMini (1)\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\bin\Debug\DevExpress.Data.v24.1.xml
+C:\Users\xuanb\OneDrive\Desktop\QuanLySanBongMini (1)\QuanLySanBongMini (1)\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\bin\Debug\DevExpress.DataAccess.v24.1.xml
+C:\Users\xuanb\OneDrive\Desktop\QuanLySanBongMini (1)\QuanLySanBongMini (1)\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\bin\Debug\DevExpress.DataAccess.v24.1.UI.xml
+C:\Users\xuanb\OneDrive\Desktop\QuanLySanBongMini (1)\QuanLySanBongMini (1)\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\bin\Debug\DevExpress.Drawing.v24.1.xml
+C:\Users\xuanb\OneDrive\Desktop\QuanLySanBongMini (1)\QuanLySanBongMini (1)\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\bin\Debug\DevExpress.Map.v24.1.Core.xml
+C:\Users\xuanb\OneDrive\Desktop\QuanLySanBongMini (1)\QuanLySanBongMini (1)\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\bin\Debug\DevExpress.Office.v24.1.Core.xml
+C:\Users\xuanb\OneDrive\Desktop\QuanLySanBongMini (1)\QuanLySanBongMini (1)\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\bin\Debug\DevExpress.PivotGrid.v24.1.Core.xml
+C:\Users\xuanb\OneDrive\Desktop\QuanLySanBongMini (1)\QuanLySanBongMini (1)\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\bin\Debug\DevExpress.Printing.v24.1.Core.xml
+C:\Users\xuanb\OneDrive\Desktop\QuanLySanBongMini (1)\QuanLySanBongMini (1)\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\bin\Debug\DevExpress.RichEdit.v24.1.Core.xml
+C:\Users\xuanb\OneDrive\Desktop\QuanLySanBongMini (1)\QuanLySanBongMini (1)\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\bin\Debug\DevExpress.Sparkline.v24.1.Core.xml
+C:\Users\xuanb\OneDrive\Desktop\QuanLySanBongMini (1)\QuanLySanBongMini (1)\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\bin\Debug\DevExpress.TreeMap.v24.1.Core.xml
+C:\Users\xuanb\OneDrive\Desktop\QuanLySanBongMini (1)\QuanLySanBongMini (1)\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\bin\Debug\DevExpress.Utils.v24.1.xml
+C:\Users\xuanb\OneDrive\Desktop\QuanLySanBongMini (1)\QuanLySanBongMini (1)\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\bin\Debug\DevExpress.Utils.v24.1.UI.xml
+C:\Users\xuanb\OneDrive\Desktop\QuanLySanBongMini (1)\QuanLySanBongMini (1)\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\bin\Debug\DevExpress.Xpo.v24.1.xml
+C:\Users\xuanb\OneDrive\Desktop\QuanLySanBongMini (1)\QuanLySanBongMini (1)\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\bin\Debug\DevExpress.XtraBars.v24.1.xml
+C:\Users\xuanb\OneDrive\Desktop\QuanLySanBongMini (1)\QuanLySanBongMini (1)\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\bin\Debug\DevExpress.XtraCharts.v24.1.xml
+C:\Users\xuanb\OneDrive\Desktop\QuanLySanBongMini (1)\QuanLySanBongMini (1)\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\bin\Debug\DevExpress.XtraCharts.v24.1.UI.xml
+C:\Users\xuanb\OneDrive\Desktop\QuanLySanBongMini (1)\QuanLySanBongMini (1)\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\bin\Debug\DevExpress.XtraCharts.v24.1.Wizard.xml
+C:\Users\xuanb\OneDrive\Desktop\QuanLySanBongMini (1)\QuanLySanBongMini (1)\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\bin\Debug\DevExpress.XtraEditors.v24.1.xml
+C:\Users\xuanb\OneDrive\Desktop\QuanLySanBongMini (1)\QuanLySanBongMini (1)\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\bin\Debug\DevExpress.XtraGauges.v24.1.Core.xml
+C:\Users\xuanb\OneDrive\Desktop\QuanLySanBongMini (1)\QuanLySanBongMini (1)\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\bin\Debug\DevExpress.XtraGauges.v24.1.Presets.xml
+C:\Users\xuanb\OneDrive\Desktop\QuanLySanBongMini (1)\QuanLySanBongMini (1)\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\bin\Debug\DevExpress.XtraGauges.v24.1.Win.xml
+C:\Users\xuanb\OneDrive\Desktop\QuanLySanBongMini (1)\QuanLySanBongMini (1)\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\bin\Debug\DevExpress.XtraGrid.v24.1.xml
+C:\Users\xuanb\OneDrive\Desktop\QuanLySanBongMini (1)\QuanLySanBongMini (1)\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\bin\Debug\DevExpress.XtraLayout.v24.1.xml
+C:\Users\xuanb\OneDrive\Desktop\QuanLySanBongMini (1)\QuanLySanBongMini (1)\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\bin\Debug\DevExpress.XtraMap.v24.1.xml
+C:\Users\xuanb\OneDrive\Desktop\QuanLySanBongMini (1)\QuanLySanBongMini (1)\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\bin\Debug\DevExpress.XtraPivotGrid.v24.1.xml
+C:\Users\xuanb\OneDrive\Desktop\QuanLySanBongMini (1)\QuanLySanBongMini (1)\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\bin\Debug\DevExpress.XtraPrinting.v24.1.xml
+C:\Users\xuanb\OneDrive\Desktop\QuanLySanBongMini (1)\QuanLySanBongMini (1)\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\bin\Debug\DevExpress.XtraReports.v24.1.xml
+C:\Users\xuanb\OneDrive\Desktop\QuanLySanBongMini (1)\QuanLySanBongMini (1)\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\bin\Debug\DevExpress.XtraRichEdit.v24.1.xml
+C:\Users\xuanb\OneDrive\Desktop\QuanLySanBongMini (1)\QuanLySanBongMini (1)\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\bin\Debug\DevExpress.XtraTreeList.v24.1.xml
+C:\Users\xuanb\OneDrive\Desktop\QuanLySanBongMini (1)\QuanLySanBongMini (1)\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\bin\Debug\DevExpress.XtraTreeMap.v24.1.xml
+C:\Users\xuanb\OneDrive\Desktop\QuanLySanBongMini (1)\QuanLySanBongMini (1)\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\bin\Debug\DevExpress.XtraTreeMap.v24.1.UI.xml
+C:\Users\xuanb\OneDrive\Desktop\QuanLySanBongMini (1)\QuanLySanBongMini (1)\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\bin\Debug\DevExpress.XtraDiagram.v24.1.xml
+C:\Users\xuanb\OneDrive\Desktop\QuanLySanBongMini (1)\QuanLySanBongMini (1)\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\bin\Debug\DevExpress.Diagram.v24.1.Core.xml
+C:\Users\xuanb\OneDrive\Desktop\QuanLySanBongMini (1)\QuanLySanBongMini (1)\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\bin\Debug\DevExpress.Pdf.v24.1.Core.xml
+C:\Users\xuanb\OneDrive\Desktop\QuanLySanBongMini (1)\QuanLySanBongMini (1)\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\bin\Debug\DevExpress.Pdf.v24.1.Drawing.xml
+C:\Users\xuanb\OneDrive\Desktop\QuanLySanBongMini (1)\QuanLySanBongMini (1)\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\bin\Debug\DevExpress.XtraVerticalGrid.v24.1.xml
+C:\Users\xuanb\OneDrive\Desktop\QuanLySanBongMini (1)\QuanLySanBongMini (1)\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\bin\Debug\DevExpress.XtraNavBar.v24.1.xml
+C:\Users\xuanb\OneDrive\Desktop\QuanLySanBongMini (1)\QuanLySanBongMini (1)\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\obj\Debug\QuanLySanBongMini.csproj.AssemblyReference.cache
+C:\Users\xuanb\OneDrive\Desktop\QuanLySanBongMini (1)\QuanLySanBongMini (1)\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\obj\Debug\QuanLySanBongMini.FrmMain.resources
+C:\Users\xuanb\OneDrive\Desktop\QuanLySanBongMini (1)\QuanLySanBongMini (1)\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\obj\Debug\QuanLySanBongMini.frm_DangNhap.resources
+C:\Users\xuanb\OneDrive\Desktop\QuanLySanBongMini (1)\QuanLySanBongMini (1)\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\obj\Debug\QuanLySanBongMini.frm_DatSan.resources
+C:\Users\xuanb\OneDrive\Desktop\QuanLySanBongMini (1)\QuanLySanBongMini (1)\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\obj\Debug\QuanLySanBongMini.frm_HoaDon.resources
+C:\Users\xuanb\OneDrive\Desktop\QuanLySanBongMini (1)\QuanLySanBongMini (1)\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\obj\Debug\QuanLySanBongMini.frm_QLSan.resources
+C:\Users\xuanb\OneDrive\Desktop\QuanLySanBongMini (1)\QuanLySanBongMini (1)\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\obj\Debug\QuanLySanBongMini.frm_report.resources
+C:\Users\xuanb\OneDrive\Desktop\QuanLySanBongMini (1)\QuanLySanBongMini (1)\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\obj\Debug\QuanLySanBongMini.frm_ThongKe.resources
+C:\Users\xuanb\OneDrive\Desktop\QuanLySanBongMini (1)\QuanLySanBongMini (1)\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\obj\Debug\QuanLySanBongMini.inhoadon.resources
+C:\Users\xuanb\OneDrive\Desktop\QuanLySanBongMini (1)\QuanLySanBongMini (1)\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\obj\Debug\QuanLySanBongMini.Properties.Resources.resources
+C:\Users\xuanb\OneDrive\Desktop\QuanLySanBongMini (1)\QuanLySanBongMini (1)\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\obj\Debug\QuanLySanBongMini.QLTaiKhoan.resources
+C:\Users\xuanb\OneDrive\Desktop\QuanLySanBongMini (1)\QuanLySanBongMini (1)\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\obj\Debug\QuanLySanBongMini.QLTaiKhoanCaNhan.resources
+C:\Users\xuanb\OneDrive\Desktop\QuanLySanBongMini (1)\QuanLySanBongMini (1)\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\obj\Debug\QuanLySanBongMini.csproj.GenerateResource.cache
+C:\Users\xuanb\OneDrive\Desktop\QuanLySanBongMini (1)\QuanLySanBongMini (1)\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\obj\Debug\QuanLySanBongMini.exe.licenses
+C:\Users\xuanb\OneDrive\Desktop\QuanLySanBongMini (1)\QuanLySanBongMini (1)\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\obj\Debug\QuanLySanBongMini.csproj.CoreCompileInputs.cache
+C:\Users\xuanb\OneDrive\Desktop\QuanLySanBongMini (1)\QuanLySanBongMini (1)\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\obj\Debug\QuanLySa.EE94099F.Up2Date
+C:\Users\xuanb\OneDrive\Desktop\QuanLySanBongMini (1)\QuanLySanBongMini (1)\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\obj\Debug\QuanLySanBongMini.exe
+C:\Users\xuanb\OneDrive\Desktop\QuanLySanBongMini (1)\QuanLySanBongMini (1)\QuanLySanBongMini\QuanLySanBongMini\QuanLySanBongMini\obj\Debug\QuanLySanBongMini.pdb
